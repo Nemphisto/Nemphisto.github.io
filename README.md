@@ -29,14 +29,6 @@ portafolio-futurista/
 └── README.md
 ```
 
-## Abrir en Visual Studio Code
-
-1. Descomprime `portafolio-futurista.zip`.
-2. Abre **Visual Studio Code**.
-3. Ve a **Archivo → Abrir carpeta** y selecciona `portafolio-futurista`.
-4. Abre `index.html` en un navegador, o instala la extensión **Live Server** y selecciona **Open with Live Server** sobre `index.html`.
-5. Cuando edites el CSS, HTML o JS, recarga la página para ver los cambios (Live Server normalmente recarga automáticamente).
-
 ## Personalización
 
 - **Nombre y presentación:** busca `NEMPHISTO` en `index.html` y edita el alias, los encabezados y la descripción personal. Se usó tu usuario de GitHub como nombre visual; sustituye por tu nombre real si así lo deseas.
